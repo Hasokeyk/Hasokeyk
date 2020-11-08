@@ -1,2 +1,1 @@
-# Hasokeyk
- 
+[![Hasan Yüksektepe](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://hayatikodla.net)
