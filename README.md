@@ -1,3 +1,7 @@
+<a href="https://hayatikodla.net">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasokeyk&count_private=true&show_icons=true&theme=algolia" />
+</a>
+
 # Back-End
 [![name](https://img.shields.io/badge/PHP%207+-2196f3?style=for-the-badge&logo=php&logoColor=white)](https://hayatikodla.net)
 [![name](https://img.shields.io/badge/Python-2196f3?style=for-the-badge&logo=python&logoColor=darkgreen)](https://hayatikodla.net)
