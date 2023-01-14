@@ -4,9 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasokeyk)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasokeyk.hasokeyk&left_text=Visitor)
 
-<a href="https://hayatikodla.net">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasokeyk&count_private=true&show_icons=true&theme=algolia" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasokeyk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Back-End
 [![name](https://img.shields.io/badge/PHP%207+-2196f3?style=for-the-badge&logo=php&logoColor=white)](https://hayatikodla.net)
